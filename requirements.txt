@@ -1,0 +1,5 @@
+boto3==1.43.56
+google-cloud-bigquery==3.42.2
+google-cloud-bigquery-storage==2.39.0
+pyarrow==25.0.0
+python-dotenv==1.2.2
